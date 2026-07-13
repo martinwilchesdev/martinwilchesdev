@@ -1,66 +1,44 @@
 ```json
 {
   "developer": "Martin Wilches",
-  "role": "Full-Stack Developer",
-  "location": "Bucaramanga, Colombia",
-  "experience": "4+ years",
-  "focus": [
-    "Backend Development",
-    "DevOps",
-    "Cloud Computing"
-  ],
-  "code": [
-    "PHP",
-    "JavaScript",
-    "TypeScript"
-  ],
-  "backend": [
-    "Laravel",
-    "Livewire",
-    "Express.js"
-  ],
-  "frontend": [
-    "React",
-    "Vue.js",
-    "Tailwind CSS"
-  ],
-  "databases": [
-    "MySQL",
-    "SQL Server",
-    "MongoDB",
-    "Redis"
-  ],
-  "devops": [
-    "Linux",
-    "Docker",
-    "Nginx",
-    "AWS EC2",
-    "CI/CD"
-  ],
+  "currentRole": "Backend Developer",
+  "mission": "Building intelligent systems for football analytics.",
+  "location": "Colombia 🇨🇴",
+
   "currently_learning": [
-    "Docker",
-    "Kubernetes",
     "System Design",
-    "AWS"
-  ]
+    "Distributed Systems",
+    "Data Engineering",
+    "Football Analytics",
+    "MLOps"
+  ],
+
+  "goal": "Develop AI-powered platforms for professional football."
 }
 ```
 
 ```bash
 martin@github:~$ whoami
-Martin Wilches
-Full-Stack Developer
+Backend Engineer
 
-martin@github:~$ current-focus
-→ Building scalable backend applications
-→ Learning DevOps & Cloud Engineering
-→ Improving System Design skills
+martin@github:~$ current_focus
 
-martin@github:~$ tech-stack
-PHP         ████████████████████
-JavaScript  ████████████████████
-Laravel     ████████████████████
-Docker      ███████████░░░░░░░░░
-AWS         ████████░░░░░░░░░░░░
-Kubernetes  ███░░░░░░░░░░░░░░░░░
+✔ Scalable APIs
+✔ Cloud Infrastructure
+✔ Artificial Intelligence
+✔ Computer Vision
+✔ Football Analytics
+
+martin@github:~$ roadmap
+
+[██████████████░░░░░░] Backend Engineering
+[███████████░░░░░░░░░] Cloud & DevOps
+[█████░░░░░░░░░░░░░░░] Machine Learning
+[████░░░░░░░░░░░░░░░░] Computer Vision
+[███░░░░░░░░░░░░░░░░░] MLOps
+
+martin@github:~$ echo $VISION
+
+"Transform football data into intelligent decisions."
 ```
+</p>
