@@ -29,14 +29,6 @@ martin@github:~$ current_focus
 ✔ Computer Vision
 ✔ Football Analytics
 
-martin@github:~$ roadmap
-
-[██████████████░░░░░░] Backend Engineering
-[███████████░░░░░░░░░] Cloud & DevOps
-[█████░░░░░░░░░░░░░░░] Machine Learning
-[████░░░░░░░░░░░░░░░░] Computer Vision
-[███░░░░░░░░░░░░░░░░░] MLOps
-
 martin@github:~$ echo $VISION
 
 "Transform football data into intelligent decisions."
