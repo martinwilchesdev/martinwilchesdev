@@ -4,5 +4,5 @@ Martin Wilches
 Full-Stack Developer
 ```
 
-📍 Bucaramanga, Colombia 🇨🇴 <br>
-⚡ Backend • DevOps • AI
+📍 Bucaramanga, Colombia 🇨🇴  
+⚡ **Backend** • **DevOps** • **AI**
